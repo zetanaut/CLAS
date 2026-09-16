@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pycache/
+.matplotlib/
+*.pyc
+*.hipo
+
+# Local third-party generator checkouts and build products. Install these
+# separately when running the optional clasDIS/GiBUU workflows in the README.
+external/
